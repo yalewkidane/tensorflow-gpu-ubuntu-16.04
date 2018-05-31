@@ -166,34 +166,3 @@ print(sess.run(hello))
 ```
 
 
-```text
-sudo reboot
-```
-
-```text
-sudo reboot
-```
-
-```text
-sudo reboot
-```
-
-```text
-sudo reboot
-```
-
-```text
-sudo reboot
-```
-
-```text
-sudo reboot
-```
-
-```text
-sudo reboot
-```
-
-```text
-sudo reboot
-```
