@@ -8,7 +8,7 @@ conda install -c anaconda ipython
 ```
 2. Install *nb_conda_kernels*
 ```
-conda install -channel=conda-forge nb_conda_kernels
+conda install nb_conda_kernels
 ```
 3. Launch the *Jupyter notebook*
 
